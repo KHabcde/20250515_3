@@ -1,0 +1,6 @@
+PpenAI
+python-dotenv
+pyautogui
+pywinauto
+pytesseract
+opencv-python

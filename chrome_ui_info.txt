@@ -1,0 +1,9 @@
+Control Identifiers:
+
+Chrome_WidgetWin_1 - 'コンテンツ切り替えデモ - Google Chrome'    (L1386, T0, R1927, B1039)
+['Chrome_WidgetWin_1', 'コンテンツ切り替えデモ - Google Chrome', 'コンテンツ切り替えデモ - Google ChromeChrome_WidgetWin_1']
+child_window(title="コンテンツ切り替えデモ - Google Chrome", class_name="Chrome_WidgetWin_1")
+   | 
+   | Intermediate D3D Window - ''    (L1394, T0, R1919, B1031)
+   | ['コンテンツ切り替えデモ - Google ChromeIntermediate D3D Window', 'Intermediate D3D Window']
+   | child_window(class_name="Intermediate D3D Window")

@@ -1,0 +1,178 @@
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  200 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  100 200
+click  image template_image.png
+click  image green Google Chrome
+click  image green Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  100 200
+click  image template_image.png
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
+click  keyword green  Google Chrome
